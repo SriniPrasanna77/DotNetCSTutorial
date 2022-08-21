@@ -1,0 +1,15 @@
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/bin/Release/net6.0/BankAccount
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/bin/Release/net6.0/BankAccount.deps.json
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/bin/Release/net6.0/BankAccount.runtimeconfig.json
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/bin/Release/net6.0/BankAccount.dll
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/bin/Release/net6.0/BankAccount.pdb
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.csproj.AssemblyReference.cache
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.AssemblyInfoInputs.cache
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.AssemblyInfo.cs
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.dll
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/refint/BankAccount.dll
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.pdb
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/BankAccount.genruntimeconfig.cache
+/Users/srinivasaprasanna/projects/dotnetcs/BankAccount/BankAccount/obj/Release/net6.0/ref/BankAccount.dll

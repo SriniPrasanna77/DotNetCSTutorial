@@ -1,0 +1,15 @@
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/bin/Debug/net6.0/ListProject
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/bin/Debug/net6.0/ListProject.deps.json
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/bin/Debug/net6.0/ListProject.runtimeconfig.json
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/bin/Debug/net6.0/ListProject.dll
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/bin/Debug/net6.0/ListProject.pdb
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.csproj.AssemblyReference.cache
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.AssemblyInfoInputs.cache
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.AssemblyInfo.cs
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.csproj.CoreCompileInputs.cache
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.dll
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/refint/ListProject.dll
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.pdb
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ListProject.genruntimeconfig.cache
+/Users/srinivasaprasanna/projects/dotnetcs/ListProject/ListProject/obj/Debug/net6.0/ref/ListProject.dll

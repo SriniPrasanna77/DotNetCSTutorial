@@ -1,0 +1,15 @@
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/bin/Debug/net6.0/HelloConsole
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/bin/Debug/net6.0/HelloConsole.deps.json
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/bin/Debug/net6.0/HelloConsole.runtimeconfig.json
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/bin/Debug/net6.0/HelloConsole.dll
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/bin/Debug/net6.0/HelloConsole.pdb
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.AssemblyReference.cache
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfoInputs.cache
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfo.cs
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.CoreCompileInputs.cache
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.dll
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/refint/HelloConsole.dll
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.pdb
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/HelloConsole.genruntimeconfig.cache
+/Users/srinivasaprasanna/projects/dotnetcs/HelloConsole/HelloConsole/obj/Debug/net6.0/ref/HelloConsole.dll
